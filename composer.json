@@ -1,7 +1,12 @@
 {
     "name": "remozhang/dao",
     "description": "phpDAO",
+    "keywords": ["phpDAO", "remo"],
+    "license": "MIT",
     "type": "library",
+    "require": {
+	"php": ">=5.4"
+    },
     "authors": [
         {
             "name": "remozhang",
