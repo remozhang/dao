@@ -5,7 +5,7 @@ namespace DAO\Database;
 /**
  * Class Connection
  *
- * @package zlDAO
+ * @package DAO\Database
  */
 class Connection
 {

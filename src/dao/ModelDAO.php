@@ -2,10 +2,11 @@
 
 namespace DAO\Dao;
 
+use DAO\Model\Model;
 /**
  * Interface ModelDAO
  *
- * @package zlDAO
+ * @package DAO
  */
 interface ModelDAO
 {
@@ -24,14 +25,14 @@ interface ModelDAO
     public function delete($id);
 
     /**
-     * @param \DAO\Model $model
+     * @param \DAO\Model\Model $model
      *
      * @return mixed
      */
     public function update(Model $model);
 
     /**
-     * @param \DAO\Model $model
+     * @param \DAO\Model\Model $model
      *
      * @return mixed
      */
