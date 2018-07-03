@@ -1,0 +1,12 @@
+{
+    "name": "remozhang/dao",
+    "description": "phpDAO",
+    "type": "library",
+    "authors": [
+        {
+            "name": "remozhang",
+            "email": "814895077@qq.com"
+        }
+    ],
+    "require": {}
+}
