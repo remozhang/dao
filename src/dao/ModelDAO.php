@@ -1,6 +1,6 @@
 <?php
 
-namespace DAO;
+namespace DAO\Dao;
 
 /**
  * Interface ModelDAO

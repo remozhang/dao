@@ -8,5 +8,11 @@
             "email": "814895077@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DAO\\": "src/",
+            "Test\\": "test/"
+        }
+    }
 }

@@ -1,8 +1,8 @@
 <?php
 
-namespace DAO\;
+namespace DAO\Dao;
 
-use DAO\Connection;
+use DAO\Database\Connection;
 
 /**
  * Class DAO
