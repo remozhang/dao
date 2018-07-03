@@ -2,9 +2,6 @@
 
 namespace DAO;
 
-use DAO\Model;
-
-
 /**
  * Interface ModelDAO
  *
